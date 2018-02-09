@@ -16,8 +16,11 @@
 * javafx
     * [list](javafx/javafx-bloglist.md)
 * c#
+    * ui以及控件相关
 * unity
+    * 基础知识
 * html+css+js
+    * 基础知识
 
 ## 另外按时间划分的一点零碎
 [2018](other/2018-bloglist.md)

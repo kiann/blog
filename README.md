@@ -4,7 +4,7 @@
 
 >另外，欢迎交流，mail to：ifsoar@qq.com
 
-准备开几个坑，除了android和javaweb外基本属于半吊子状态。
+准备开几个坑，虽然除了android和javaweb外基本属于半吊子状态。
 
 * android
     * [UI以及控件相关](android/ui-bloglist.md)

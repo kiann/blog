@@ -1,6 +1,6 @@
 ## My Blog
 我叫soar，第一次尝试在github用markdown记录日志，记录工作和学习中的心得，偶尔也记一些生活琐事。
->这里是准备长期更新的，同时会同步到gitee码云，而个人网站[ifsoar.com](http://ifsoar.com)因为自己技术一般，一直在不断的开发重构，所以并不稳定，哪天网站down了权当没看见就好...
+>这里是准备长期更新的，同时会同步到[gitee码云](https://gitee.com/soar0712/blog)，而个人网站[ifsoar.com](http://ifsoar.com)因为自己技术一般，一直在不断的开发重构，所以并不稳定，哪天网站down了权当没看见就好...
 
 >另外，欢迎交流，mail to：ifsoar@qq.com
 
@@ -8,7 +8,7 @@
 
 * android
     * [UI以及控件相关](android/ui-bloglist.md)
-    * [设备已经传感器相关](android/sensor-bloglist.md)
+    * [设备以及传感器相关](android/sensor-bloglist.md)
 * java
     * [list](java/java-bloglist.md)
 * javaweb

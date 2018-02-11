@@ -14,10 +14,10 @@
 ```
 首先是鼠标操作。
 ```java
-    void mouseMove（int x，int y） //将鼠标移动到给定的屏幕坐标上
-    void mousePress（int buttons） //按下一个或多个鼠标按键，参数InputEvent.BUTTON1_MASK
-    void mouseRelease（int buttons） //释放一个活多个鼠标按键
-    void mouseWheel（int wheelAmt） //滚动鼠标滑轮，参数：滚动距离，eg：5
+    void robot.mouseMove（int x，int y） //将鼠标移动到给定的屏幕坐标上
+    void robot.mousePress（int buttons） //按下一个或多个鼠标按键，参数InputEvent.BUTTON1_MASK
+    void robot.mouseRelease（int buttons） //释放一个活多个鼠标按键
+    void robot.mouseWheel（int wheelAmt） //滚动鼠标滑轮，参数：滚动距离，eg：5
 ```
 鼠标按键对应：
 
@@ -27,8 +27,8 @@
 
 其次是键盘，类似
 ```java
-    void keyPress（int keycode） //按下指定的键，参数KeyEvent.VK_A
-    void keyRelease（int keycode） //释放指定的键
+    void robot.keyPress（int keycode） //按下指定的键，参数KeyEvent.VK_A
+    void robot.keyRelease（int keycode） //释放指定的键
 ```
 键盘功能键，
 * alt   -   KeyEvent.VK_ALT
@@ -46,12 +46,12 @@
 ```java
     File save = new File("xxx/xxx/xxx.jpg");
     Rectangle screenRect = new Rectangle(20,20,100,100);//left,top,width,height
-    BufferedImage image = createScreenCapture(screenRect);//截取指定区域的图像
+    BufferedImage image = robot.createScreenCapture(screenRect);//截取指定区域的图像
     ImageIO.write(image,"jpg",save);
 ```
 最后，在模仿手动操作的时候，一定要记得延时，因为代码运行的速度是非常快的，而我们需要GUI能够反应的过来。robot提供一个delay方法，相当于将当前线程sleep指定的毫秒值
 ```java
-    void delay(int ms)
+    void robot.delay(int ms)
 ```
 
 因为robot已经控制了我们的键盘和鼠标，所以在出错之后手动点击stop按钮是没办法了，我们还需要注册一个全局的快捷键，能够让我们迅速的停掉自己写的机器人。我使用了jintellitype。

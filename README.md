@@ -28,7 +28,7 @@
     * 基础知识
 * html+css+js
     * 基础知识
-    * 至今用过的一些库或者框架或者平台blablabla...
+    * [至今用过的一些库或者框架或者平台等](html/pltforms-bloglist.md)
 * c/c++
     * 基础知识
 * IDE开发

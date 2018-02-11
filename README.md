@@ -13,8 +13,9 @@
     * Camera
     * Audio
 * java
-    * [list](java/java-bloglist.md)（放一些自己用java时搞的脑洞什么的）
+    * [imgtrans](java/imgtrans-bloglist.md)(通过对像素的编解码实现文件和图片等互转)
     * JHandler（模仿Android的handler机制实现了一个线程间通信机制）
+    * [JRobot](java/jrobot-bloglist.md)（用java Robot实现按键精灵一样的效果,~~批量认识小姐姐~~）
 * javaweb
     * [springboot](javaweb/springboot-bloglist.md)
 * javafx

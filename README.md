@@ -9,7 +9,7 @@
 * android
     * [UI以及控件相关](android/ui-bloglist.md)
     * [设备以及传感器相关](android/sensor-bloglist.md)
-    * CMake NDK
+    * [CMake NDK](android/ndk-bloglist.md)
     * Camera
     * Audio
 * java

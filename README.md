@@ -16,7 +16,8 @@
     * [imgtrans](java/imgtrans-bloglist.md)(通过对像素的编解码实现文件和图片等互转)
     * JHandler（模仿Android的handler机制实现了一个线程间通信机制）
     * [JRobot](java/jrobot-bloglist.md)（用java Robot实现按键精灵一样的效果,~~批量认识小姐姐~~）
-    * [Jsoup](java/jsoup-bloglist.md)html解析库，写爬虫什么的（这里以爬取一篇小说为例）
+    * [Jsoup](java/jsoup-bloglist.md)  html解析库，写爬虫什么的（这里以爬取一篇小说为例）
+    * [Encrypt](java/encrypt-bloglist.md)  Java、Android、js通用aes和rsa通用加解密库
 * javaweb
     * [springboot](javaweb/springboot-bloglist.md)
 * javafx

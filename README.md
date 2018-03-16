@@ -18,6 +18,7 @@
     * [JRobot](java/jrobot-bloglist.md)（用java Robot实现按键精灵一样的效果,~~批量认识小姐姐~~）
     * [Jsoup](java/jsoup-bloglist.md)  html解析库，写爬虫什么的（这里以爬取一篇小说为例）
     * [Encrypt](java/encrypt-bloglist.md)  Java、Android、js通用aes和rsa通用加解密库
+    * [jcifs](java/jcifs-bloglist.md)  java通过smb协议访问共享文件夹文件
 * javaweb
     * [springboot](javaweb/springboot-bloglist.md)
 * javafx

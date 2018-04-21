@@ -12,6 +12,7 @@
     * [CMake NDK](android/ndk-bloglist.md)
     * Camera
     * Audio
+    * [一次失败的组件化](android/componentized_Failed.md)
 * java
     * [imgtrans](java/imgtrans-bloglist.md)(通过对像素的编解码实现文件和图片等互转)
     * JHandler（模仿Android的handler机制实现了一个线程间通信机制）
@@ -46,6 +47,6 @@
     * 先弃着
 
 ## 另外按时间划分的一点零碎
-[2018](other/2018-bloglist.md)
+[2018年文章列表](other/2018-bloglist.md)
 
 >我是个做事全凭兴趣的人，所以上面的都是想到哪儿补哪儿了，不会出系列，千万别期待。如果你发现认识我，别拆穿  Ծ‸ Ծ 。。。

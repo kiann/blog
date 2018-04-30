@@ -14,6 +14,7 @@
     * Audio
     * [一次失败的组件化](android/componentized_Failed.md)
 * java
+    * [jni各平台填坑](java/jni-bloglist.md)(在jni开发中遇上的坑)
     * [imgtrans](java/imgtrans-bloglist.md)(通过对像素的编解码实现文件和图片等互转)
     * JHandler（模仿Android的handler机制实现了一个线程间通信机制）
     * [JRobot](java/jrobot-bloglist.md)（用java Robot实现按键精灵一样的效果,~~批量认识小姐姐~~）
